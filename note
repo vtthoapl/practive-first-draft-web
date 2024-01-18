@@ -1,0 +1,23 @@
+OOP
+ES6: su khac biet cua map, for each, reduce
+cach hoat dong cua axios
+
+//!Localstorage: luu den khi nao minh xoa
+
+-sectionstorage: luu den khi nao minh dong tap
+-cookies: y chang Localstorage
+
+--> tai sao khong uu tien luu cookies , ma lai sai nhieu local storage: cookies bao mat thap hon storage
+nhung ma nhung cai lien quan den tien bac thi lai bao mat trong cookies: XSS
+
+\*\*\* cach hoat dong: Tai sao lai dung async await, tai vi: giup cho minh code bat dong bo giong nhu la code dong bo
+
+- async: la bat dong bo
+- await: cho doi ham chay xong
+
+// Redirect a Webpage
+this.redirectWhenLogin = function() {
+window.location.replace()
+}
+
+//!:
